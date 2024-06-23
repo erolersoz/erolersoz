@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @erolersoz
+- 👀 I’m interested in Django and Cyber security
+- 🌱 I’m currently learning Django
